@@ -302,8 +302,8 @@
                             <span class="badge rounded-pill text-bg-success">Wajib</span>
                         </li>
                         <li class="list-group-item d-flex justify-content-between align-items-start">
-                            <div>Menyiapkan Surat Rekomendasi/Pengantar bagi peserta magang mandiri tidak wajib</div>
-                            <span class="badge rounded-pill text-bg-primary">Wajib</span>
+                            <div>Menyiapkan Surat Rekomendasi/Pengantar, bagi peserta magang mandiri tidak wajib</div>
+                            <span class="badge rounded-pill text-bg-primary">*Wajib</span>
                         </li>
                         <li class="list-group-item d-flex justify-content-between align-items-start">
                             <div>Menyiapkan Proposal</div>
