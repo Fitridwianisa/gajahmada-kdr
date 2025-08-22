@@ -72,6 +72,7 @@ Jalankan semua migration untuk membuat tabel-tabel:
 ```bash
 php artisan migrate
 ```
+> ⚠️ Jika ada eror silahkan import database tidak perlu migrate agar tidak error.
 
 File migration utama:
 
@@ -134,5 +135,7 @@ http://127.0.0.1:8000
 ---
 
 ## 9. ⚠️ Catatan Penting
-
+> Saat diseed maka data awal untuk login admin =
+> username : admin1@gmail.com
+> password : 12345678
 
